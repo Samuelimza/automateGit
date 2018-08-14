@@ -1,1 +1,1 @@
-#automateGit 
+# automateGit 
