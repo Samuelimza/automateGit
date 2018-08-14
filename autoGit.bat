@@ -1,5 +1,5 @@
 @echo off
-cd D:\NewFolder\Osama\Programming
+cd path/to/your/repo
 git status
 set /p add=Do you want to add(y/n)?
 IF %add%==y (
