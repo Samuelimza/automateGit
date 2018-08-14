@@ -1,5 +1,5 @@
 # automateGit 
-### Run
+### Run:
 Clone the repo by 
 ```
 git clone https://github.com/Samuelimza/automateGit.git
